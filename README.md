@@ -1,12 +1,24 @@
-# React + Vite
+# Описание
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LevelUp — это быстрое, минималистичное приложение для управления задачами и наведении порядка в жизни. С помощью LevelUp можно оставаться продуктивным, превращая процесс работы в увлекательную игру.
 
-Currently, two official plugins are available:
+## Основные фичи
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Создание, обновление, удаление задач
+  - Возможность добавлять заметки
+  - Возможность добавлять подзадачи
+- Выбор даты выполнения
+- Установка приоритета
+- Получение опыта за выполненные задачи и повышение уровня
+- Получение внутриигровой валюты за выполненные задачи, которую можно тратить на вознаграждения
 
-## Expanding the ESLint configuration
+## Идеи на будущее
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Cделать полноценную авторизацию
+- Трекинг привычек
+- Создание проектов с управлением задачами
+- Добавление вида Канбан-доски
+- Интеграция с календарём
+- Использование ИИ для автоматического создания задач
+- Темы оформления и горячие клавиши
+
