@@ -1,8 +1,14 @@
+import './styles'
+
+import Main from './layouts/Main'
+import Sidebar from './layouts/Sidebar'
+
 function App() {
   return (
-    <>
-      <h1>Hello world</h1>
-    </>
+    <div className='container'>
+      <Sidebar />
+      <Main />
+    </div>
   )
 }
 
